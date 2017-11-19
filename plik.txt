@@ -1,3 +1,4 @@
 Plik testowy
 
 zmiana1
+zmiana2
