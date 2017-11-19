@@ -5,5 +5,8 @@ zmiana4
 zmiana2
 zmiana3
 zmiana5
+<<<<<<< Updated upstream
 df
 p2
+=======
+>>>>>>> Stashed changes
