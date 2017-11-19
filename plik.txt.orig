@@ -1,0 +1,10 @@
+Plik testowy
+
+zmiana1
+<<<<<<< HEAD
+zmiana4
+zmiana2
+zmiana3
+=======
+zmiana2
+>>>>>>> 9cff6d5... z2
