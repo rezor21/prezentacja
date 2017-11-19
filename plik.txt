@@ -4,4 +4,6 @@ zmiana1
 zmiana4
 zmiana2
 zmiana3
-zmiana6
+zmiana5
+
+p2
