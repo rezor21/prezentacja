@@ -1,5 +1,5 @@
 Plik testowy
 
-zmiana1
+zmiana4
 zmiana2
 zmiana3
